@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git://github.com/NZME/event-abstract-class"
   },
+  "scripts": {
+    "test": "echo 'ok'"   
+  },
   "keywords": [
     "js",
     "es6",
