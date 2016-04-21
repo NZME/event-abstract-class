@@ -1,0 +1,26 @@
+{
+  "name": "event-abstract-class",
+  "version": "1.0.0",
+  "description": "ES6 abstract class to extend and allow classes to support native object event binding/triggering.",
+  "main": "event-abstract-class.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NZME/event-abstract-class"
+  },
+  "keywords": [
+    "js",
+    "es6",
+    "abstract",
+    "class",
+    "events",
+    "trigger",
+    "emit",
+    "bind"
+  ],
+  "contributors": [
+    "Raice Hannay <raicehannay@gmail.com> (http://github.com/voodoocreation)"
+  ],
+  "bugs": {
+    "url": "https://github.com/NZME/event-abstract-class/issues"
+  }
+}
