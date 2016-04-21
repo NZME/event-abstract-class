@@ -1,3 +1,4 @@
+![Travis Build](https://img.shields.io/travis/NZME/event-abstract-class.svg)
 Event abstract class
 ====================
 
