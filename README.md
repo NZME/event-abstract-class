@@ -1,7 +1,7 @@
 ![Travis Build](https://img.shields.io/travis/NZME/event-abstract-class.svg)
+
 Event abstract class
 ====================
-
 ES6 abstract class to extend and allow classes to support native object event binding/triggering.
 
 Example
