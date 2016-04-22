@@ -54,7 +54,7 @@ export default class EventAbstractClass {
      * @param {String} eventName Name of event to trigger
      * @param {*}      data      Data to pass to event handler
      */
-    trigger (eventName, data) {
+    trigger (eventName, data = null) {
         let events = this.getEventList(eventName)
 
         for (let event of events) {
