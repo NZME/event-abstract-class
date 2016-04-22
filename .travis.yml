@@ -1,6 +1,8 @@
 language: node_js
 node_js:
 - '4'
+before_install: 
+  cd NZME/event-abstract-class
 deploy:
   email: benauf@gmail.com
   provider: npm
