@@ -1,8 +1,8 @@
 {
   "name": "event-abstract-class",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ES6 abstract class to extend and allow classes to support native object event binding/triggering.",
-  "main": "src/event-abstract-class.js",
+  "main": "dist/event-abstract-class.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/NZME/event-abstract-class"
